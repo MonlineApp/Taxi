@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "558335254617",
+    "firebase_url": "https://taxim-df4f6.firebaseio.com",
+    "project_id": "taxim-df4f6",
+    "storage_bucket": "taxim-df4f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558335254617:android:1eb15adfa916265d",
+        "android_client_info": {
+          "package_name": "com.monline.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558335254617-830p2vkf8gqupojp3j636a7qtps9ngji.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "558335254617-830p2vkf8gqupojp3j636a7qtps9ngji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMRe4lUyYuuCJPyY1lYC1yFWSQkku4xe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
